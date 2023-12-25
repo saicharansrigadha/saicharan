@@ -1,0 +1,15 @@
+flutter speech to text plugin
+open AI
+   Introduction Of OpenAI
+   generate a key
+
+   API reference
+
+
+
+visibility widget is used for visible the image or content in the main screen
+ClipRReact is used for changing border radius of the image
+
+
+Animations:
+BounceInDown used for appBar animation
